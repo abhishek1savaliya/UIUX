@@ -50,4 +50,5 @@ module.exports = {
     },
   },
   plugins: [],
+  purge: ['./src/**/*.{js,ts,jsx,tsx}'],
 };
